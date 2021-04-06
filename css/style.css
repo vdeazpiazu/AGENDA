@@ -1,0 +1,39 @@
+
+* {
+    background-color: #FFE4D6;;
+}
+section {
+    /* He intentat de totes totes que els inputs i el botó 
+    em quedin centrats, igual que la resta, i no hi ha manera */
+    display: flex;
+    justify-content: center;
+    align-items: center;;
+    text-align: center;
+}
+p {
+    font-family: Montserrat;
+    color: #B5838D; 
+    text-align: justify;
+    justify-content: center;
+    margin: 20px;
+}
+h2, h4 {
+    font-family: Montserrat;
+    font-weight: 600;
+    text-align: center;
+    color:#6D6875;
+}
+a {
+    font-family: Montserrat;
+    text-align: center;
+    color:#6D6875;
+}
+input {
+    border-radius: 20px;
+    background-color: white;
+    border: 1px solid #B5838D;
+}
+#myBut {
+    background-color: #B5838D;
+    color: white;
+}
